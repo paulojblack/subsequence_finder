@@ -13,7 +13,7 @@ No setup necessary.
 
 ## Execution
 From the project root directory run  
-python -m subsequence_finder
+`python -m subsequence_finder`
 
 ## Testing
 A simple file with a couple tests used in development is located in `tests/test_subsequences`  
