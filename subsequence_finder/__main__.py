@@ -1,4 +1,3 @@
-import argparse
 import sys
 
 from .subseq_finder import find_consecutive_runs
